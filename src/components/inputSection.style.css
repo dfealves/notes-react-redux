@@ -1,0 +1,24 @@
+.InputSection__container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.InputSection__container input,
+textarea {
+  min-width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 0.3em;
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.InputSection__container button {
+  background: #000;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 4px;
+  padding: 8px;
+}

@@ -1,0 +1,8 @@
+.NoteSection__container {
+  columns: 4 200px;
+  column-gap: 1em;
+  padding: 1em;
+}
+p.empty {
+  text-align: center;
+}
